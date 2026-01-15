@@ -5,7 +5,7 @@ title: "Project: IoT Plant Watering System"
 ## Overview
 This group project developed a smart plant irrigation system using Raspberry Pi and sensors to automate watering based on soil moisture levels. It features a 3D-printed water dispensing tube, a mini motor for valve control, and a web dashboard for remote access.
 
-![Project Poster](P1_37_Poster.jpg)
+![Project Poster](P1_37_Poster)
 
 ## Technologies Used
 - **Hardware:** Raspberry Pi, Hardware Sensors/Servo, 3D Printed Parts
