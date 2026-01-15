@@ -1,0 +1,21 @@
+---
+title: "Data Visualization"
+---
+
+## Micron SSD Defect Data Visualization
+
+During my internship at **Micron Technology**, I completed visualizations for inspection machines, helping to identify defect patterns in SSD manufacturing.
+
+### The Visualization Task
+The goal was to allow better conceptualization of defect data through graphical representations. I used **Tableau** and **Python** to create interactive dashboards that communicated insights effectively to engineers and managers globally.
+
+### Story & Rationale
+We needed to move beyond raw data logs to understand *when* and *where* defects were occurring.
+-   **Temporal Patterns:** I used line and area charts to show defect trends over time.
+-   **Composition:** Pie and stacked bar charts were used to show the breakdown of defect types.
+-   **Distribution:** Histograms helped visualize the distribution of defect occurrences across different manufacturing sites.
+
+### Result
+The visualizations allowed for quicker identification of machine faults, saving the company approximately **~$250k monthly** on software subscriptions by consolidating analysis tools.
+
+![Visualization Example](tableau.gif)

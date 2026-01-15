@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Ming Yang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Fintech & Applied Computing Student\nCurrently diving deep into the world of Applied Computing with a Fintech specialization at Singapore Institute of Technology. I have 3 years of experience in coding, crunching numbers, and caffeine-powered innovation!\n“Just a Student, walking forward with purpose, striving for progress over perfection—because every step forward counts.”"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,110 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Ming Yang",
+    "section": "",
+    "text": "Fintech & Applied Computing Student\nCurrently diving deep into the world of Applied Computing with a Fintech specialization at Singapore Institute of Technology. I have 3 years of experience in coding, crunching numbers, and caffeine-powered innovation!\n“Just a Student, walking forward with purpose, striving for progress over perfection—because every step forward counts.”"
+  },
+  {
+    "objectID": "index.html#my-journey",
+    "href": "index.html#my-journey",
+    "title": "Ming Yang",
+    "section": "My Journey",
+    "text": "My Journey\n\n2025: Micron Technology, Inc | MOD SSD Defect Data Visualization Intern\n2021: AiDA Technologies | Database Engineer Intern"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project: IoT Plant Watering System",
+    "section": "",
+    "text": "This group project developed a smart plant irrigation system using Raspberry Pi and sensors to automate watering based on soil moisture levels. It features a 3D-printed water dispensing tube, a mini motor for valve control, and a web dashboard for remote access.\n\n\n\nProject Poster"
+  },
+  {
+    "objectID": "project.html#overview",
+    "href": "project.html#overview",
+    "title": "Project: IoT Plant Watering System",
+    "section": "",
+    "text": "This group project developed a smart plant irrigation system using Raspberry Pi and sensors to automate watering based on soil moisture levels. It features a 3D-printed water dispensing tube, a mini motor for valve control, and a web dashboard for remote access.\n\n\n\nProject Poster"
+  },
+  {
+    "objectID": "project.html#technologies-used",
+    "href": "project.html#technologies-used",
+    "title": "Project: IoT Plant Watering System",
+    "section": "Technologies Used",
+    "text": "Technologies Used\n\nHardware: Raspberry Pi, Hardware Sensors/Servo, 3D Printed Parts\nSoftware: Python, MQTT, SQLite\nDatabase: SQLite for logging moisture and valve states"
+  },
+  {
+    "objectID": "project.html#key-features",
+    "href": "project.html#key-features",
+    "title": "Project: IoT Plant Watering System",
+    "section": "Key Features",
+    "text": "Key Features\n\nMoisture Monitoring: Real-time soil moisture readings via sensor trigger automatic watering.\nWater Level Detection: Alerts when the reservoir is low.\nManual Override: Remote control to open/close valves via a web dashboard.\nMQTT Integration: Publishes sensor data and receives control commands seamlessly."
+  },
+  {
+    "objectID": "project.html#key-learnings",
+    "href": "project.html#key-learnings",
+    "title": "Project: IoT Plant Watering System",
+    "section": "Key Learnings",
+    "text": "Key Learnings\n\nHardware-Software Integration: Interfaced sensors and actuators with Raspberry Pi for real-time control.\nIoT Scalability: Designed a system that is small yet expandable using MQTT for remote monitoring."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this assessment, I utilized Generative AI tools like ChatGPT and GitHub Copilot to assist in the development of my portfolio website."
+  },
+  {
+    "objectID": "reflection.html#experience-summary",
+    "href": "reflection.html#experience-summary",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this assessment, I utilized Generative AI tools like ChatGPT and GitHub Copilot to assist in the development of my portfolio website."
+  },
+  {
+    "objectID": "reflection.html#how-genai-helped",
+    "href": "reflection.html#how-genai-helped",
+    "title": "Reflection on the use of GenAI",
+    "section": "How GenAI Helped",
+    "text": "How GenAI Helped\n\nCode Structure: I used GenAI to generate the initial HTML boilerplate and CSS for the responsive grid layouts used in my work_*.html pages.\nDebugging: When my JavaScript for the “Gwent” game logic had issues with the turn-based state machine, I pasted the error logs into ChatGPT, which suggested fixes for the asynchronous function calls.\nContent Refinement: GenAI helped refine my project descriptions to be more punchy and professional, ensuring my “Key Learnings” sections were concise."
+  },
+  {
+    "objectID": "reflection.html#benefits",
+    "href": "reflection.html#benefits",
+    "title": "Reflection on the use of GenAI",
+    "section": "Benefits",
+    "text": "Benefits\n\nEfficiency: It significantly sped up the coding process, allowing me to focus on the design and content rather than syntax errors.\nLearning Aid: It acted as a tutor, explaining why certain CSS properties (like flexbox vs grid) worked better for my specific layout needs."
+  },
+  {
+    "objectID": "reflection.html#challenges",
+    "href": "reflection.html#challenges",
+    "title": "Reflection on the use of GenAI",
+    "section": "Challenges",
+    "text": "Challenges\n\nContext Awareness: The AI sometimes provided generic code that didn’t fit my specific file structure, requiring me to manually adjust paths and class names.\nOver-reliance: There is a temptation to copy-paste without fully understanding the underlying logic, which I had to actively mitigate by reviewing every line of suggested code."
+  },
+  {
+    "objectID": "reflection.html#future-application",
+    "href": "reflection.html#future-application",
+    "title": "Reflection on the use of GenAI",
+    "section": "Future Application",
+    "text": "Future Application\nI see GenAI as a “force multiplier” for my future career in Fintech. It will allow me to prototype applications faster and write unit tests more comprehensively, but the core architectural decisions will still rely on my own domain knowledge."
+  },
+  {
+    "objectID": "data_viz.html",
+    "href": "data_viz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "During my internship at Micron Technology, I completed visualizations for inspection machines, helping to identify defect patterns in SSD manufacturing.\n\n\nThe goal was to allow better conceptualization of defect data through graphical representations. I used Tableau and Python to create interactive dashboards that communicated insights effectively to engineers and managers globally.\n\n\n\nWe needed to move beyond raw data logs to understand when and where defects were occurring. - Temporal Patterns: I used line and area charts to show defect trends over time. - Composition: Pie and stacked bar charts were used to show the breakdown of defect types. - Distribution: Histograms helped visualize the distribution of defect occurrences across different manufacturing sites.\n\n\n\nThe visualizations allowed for quicker identification of machine faults, saving the company approximately ~$250k monthly on software subscriptions by consolidating analysis tools.\n\n\n\nVisualization Example"
+  },
+  {
+    "objectID": "data_viz.html#micron-ssd-defect-data-visualization",
+    "href": "data_viz.html#micron-ssd-defect-data-visualization",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "During my internship at Micron Technology, I completed visualizations for inspection machines, helping to identify defect patterns in SSD manufacturing.\n\n\nThe goal was to allow better conceptualization of defect data through graphical representations. I used Tableau and Python to create interactive dashboards that communicated insights effectively to engineers and managers globally.\n\n\n\nWe needed to move beyond raw data logs to understand when and where defects were occurring. - Temporal Patterns: I used line and area charts to show defect trends over time. - Composition: Pie and stacked bar charts were used to show the breakdown of defect types. - Distribution: Histograms helped visualize the distribution of defect occurrences across different manufacturing sites.\n\n\n\nThe visualizations allowed for quicker identification of machine faults, saving the company approximately ~$250k monthly on software subscriptions by consolidating analysis tools.\n\n\n\nVisualization Example"
   }
 ]

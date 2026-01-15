@@ -1,11 +1,29 @@
 ---
-title: "temp_website"
+title: "Ming Yang"
+about:
+  template: jolla
+  image: your-image-here.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/myc208
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/_ap.cr_
+    - icon: envelope
+      text: Email
+      href: mailto:mychw208@gmail.com
 ---
 
-This is a Quarto website.
+## Introduction
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Fintech & Applied Computing Student**
 
-```{r}
-1 + 1
-```
+Currently diving deep into the world of Applied Computing with a Fintech specialization at Singapore Institute of Technology. I have 3 years of experience in coding, crunching numbers, and caffeine-powered innovation!
+
+"Just a Student, walking forward with purpose, striving for progress over perfection—because every step forward counts."
+
+## My Journey
+
+- **2025: Micron Technology, Inc** | MOD SSD Defect Data Visualization Intern
+- **2021: AiDA Technologies** | Database Engineer Intern

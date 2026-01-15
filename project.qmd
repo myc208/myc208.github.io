@@ -1,0 +1,23 @@
+---
+title: "Project: IoT Plant Watering System"
+---
+
+## Overview
+This group project developed a smart plant irrigation system using Raspberry Pi and sensors to automate watering based on soil moisture levels. It features a 3D-printed water dispensing tube, a mini motor for valve control, and a web dashboard for remote access.
+
+![Project Poster](P1_37_Poster.jpg)
+
+## Technologies Used
+- **Hardware:** Raspberry Pi, Hardware Sensors/Servo, 3D Printed Parts
+- **Software:** Python, MQTT, SQLite
+- **Database:** SQLite for logging moisture and valve states
+
+## Key Features
+1.  **Moisture Monitoring:** Real-time soil moisture readings via sensor trigger automatic watering.
+2.  **Water Level Detection:** Alerts when the reservoir is low.
+3.  **Manual Override:** Remote control to open/close valves via a web dashboard.
+4.  **MQTT Integration:** Publishes sensor data and receives control commands seamlessly.
+
+## Key Learnings
+- **Hardware-Software Integration:** Interfaced sensors and actuators with Raspberry Pi for real-time control.
+- **IoT Scalability:** Designed a system that is small yet expandable using MQTT for remote monitoring.

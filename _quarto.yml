@@ -3,20 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Ming Yang's Portfolio"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: project.qmd
+        text: "IoT Project"
+      - href: data_viz.qmd
+        text: "Data Visualization"
+      - href: reflection.qmd
+        text: "GenAI Reflection"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-
-
