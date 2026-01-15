@@ -18,4 +18,4 @@ We needed to move beyond raw data logs to understand *when* and *where* defects 
 ### Result
 The visualizations allowed for quicker identification of machine faults, saving the company approximately **~$250k monthly** on software subscriptions by consolidating analysis tools.
 
-![Visualization Example](tableau.gif)
+![Visualization Example](tableau.gif){width=100%}

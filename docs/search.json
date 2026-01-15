@@ -67,28 +67,28 @@
     "href": "reflection.html",
     "title": "Reflection on the use of GenAI",
     "section": "",
-    "text": "For this assessment, I utilized Generative AI tools like ChatGPT and GitHub Copilot to assist in the development of my portfolio website."
+    "text": "For this assessment, I utilized Generative AI tools like ChatGPT and GitHub Copilot to assist in the development of my assessment portfolio website."
   },
   {
     "objectID": "reflection.html#experience-summary",
     "href": "reflection.html#experience-summary",
     "title": "Reflection on the use of GenAI",
     "section": "",
-    "text": "For this assessment, I utilized Generative AI tools like ChatGPT and GitHub Copilot to assist in the development of my portfolio website."
+    "text": "For this assessment, I utilized Generative AI tools like ChatGPT and GitHub Copilot to assist in the development of my assessment portfolio website."
   },
   {
     "objectID": "reflection.html#how-genai-helped",
     "href": "reflection.html#how-genai-helped",
     "title": "Reflection on the use of GenAI",
     "section": "How GenAI Helped",
-    "text": "How GenAI Helped\n\nCode Structure: I used GenAI to generate the initial HTML boilerplate and CSS for the responsive grid layouts used in my work_*.html pages.\nDebugging: When my JavaScript for the “Gwent” game logic had issues with the turn-based state machine, I pasted the error logs into ChatGPT, which suggested fixes for the asynchronous function calls.\nContent Refinement: GenAI helped refine my project descriptions to be more punchy and professional, ensuring my “Key Learnings” sections were concise."
+    "text": "How GenAI Helped\n\nCode Structure: I used GenAI to generate a summary of the portfolio for this assessment from my original portfolio that has already been coded out but in a different file format.\nDebugging: When facing any issues with adding images, I used Google Gemini to help me in suggesting ideas and solutions to fix it.\nContent Refinement: GenAI helped refine my project descriptions to be more punchy and professional, ensuring every section of this assessment were concise."
   },
   {
     "objectID": "reflection.html#benefits",
     "href": "reflection.html#benefits",
     "title": "Reflection on the use of GenAI",
     "section": "Benefits",
-    "text": "Benefits\n\nEfficiency: It significantly sped up the coding process, allowing me to focus on the design and content rather than syntax errors.\nLearning Aid: It acted as a tutor, explaining why certain CSS properties (like flexbox vs grid) worked better for my specific layout needs."
+    "text": "Benefits\n\nEfficiency: It significantly sped up the coding process, allowing me to focus on the design and content rather than syntax errors.\nLearning Aid: It acted as a tutor, explaining why certain CSS properties worked better for my specific layout needs."
   },
   {
     "objectID": "reflection.html#challenges",
